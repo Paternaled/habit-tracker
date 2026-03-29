@@ -1,2 +1,2 @@
 # habit-tracker
-Currently an XP habit tracker that is my first personal project. 
+XP/RPG habit tracker that is our first personal project. 
