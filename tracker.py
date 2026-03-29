@@ -148,7 +148,7 @@ while True:
 
     if choice == "5":
         xp = 0
-        print("XP has been reset t0.")
+        print("XP has been reset to 0.")
 
 # option 6: player info
     
